@@ -1,0 +1,1 @@
+O objetivo é ilustrar como a concorrência otimiza o tempo de execução ao sobrepor operações de espera simuladas (como leituras de banco de dados, requisições a APIs e sincronização em nuvem), reduzindo a latência global sem bloquear a CPU.
